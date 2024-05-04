@@ -1,4 +1,4 @@
-# Data_Structures_and_Algorithms_Library
+# Data Structures and Algorithms Library
 A comprehensive library offering a versatile collection of efficient and easy-to-use data structures. Completed with @emiko47
 
 ## Date Completed:
